@@ -1,47 +1,69 @@
 # Merhaba, Ben Beyza Yazıcı! 👋
 
-### 👩‍💻 Yazılım Mühendisi Adayı | 🎮 Oyun Geliştirici & AI Tutkunu | 🎨 Tasarım Lideri
+### 👩‍💻 Yazılım Mühendisi Adayı | 🎮 Oyun Geliştirici | 🤖 AI & LLM Araştırmacısı
 
-Karadeniz Teknik Üniversitesi (KTÜ) **İngilizce Yazılım Mühendisliği** öğrencisiyim. Kodun mantığı ile tasarımın estetiğini birleştirerek, sadece çalışan değil, aynı zamanda **hisseden ve tepki veren** dijital deneyimler yaratmayı hedefliyorum.
+Karadeniz Teknik Üniversitesi (KTÜ) **İngilizce Yazılım Mühendisliği** öğrencisiyim. Mühendislik disiplinini yaratıcı vizyonla birleştirerek, sadece kod yazmıyor; **hisseden, öğrenen ve etkileşime giren** dijital deneyimler ve projeler tasarlıyorum.
 
-Özellikle **Oyun Yapay Zekası (Game AI)**, **Akıllı NPC Davranışları** ve **Adaptif Öğrenme Sistemleri** üzerine yoğunlaşarak, oyun endüstrisinde kullanıcı merkezli ve sürükleyici deneyimler geliştirmek üzerine çalışıyorum.
-
----
-
-## 🚀 Odak Alanlarım & Vizyonum
-
-* **🧠 Oyun Yapay Zekası & ML:** Eğlence sektörünün ötesine geçerek, makine öğrenmesi (ML) ile desteklenen, oyuncuya adapte olabilen zeki sistemler tasarlamak.
-* **🌍 Sosyal Etki:** Yazılım geliştirme becerilerimi sadece oyunlar için değil, gerçek dünya sorunlarına çözüm üreten ve toplumsal ihtiyaçları karşılayan projeler için kullanmak.
-* **🎨 Teknik & Estetik Sentezi:** GDG'deki tasarım liderliği tecrübemle, salt mühendislik çözümlerini görsel tasarım prensipleriyle harmanlamak.
+Özellikle **Oyun Yapay Zekası**, **Doğal Dil Modelleme (NLM/LLM)** ve **Sürükleyici Oyun Deneyimi** üzerine odaklanarak, eğlence sektörünün ötesinde toplumsal fayda sağlayan kullanıcı merkezli çözümler geliştirmeyi hedefliyorum.
 
 ---
 
-## 🛠️ Teknoloji & Araçlarım
+## 🚀 Odak Alanlarım & İlgi Sahalarım
 
-**Diller & Çekirdek Yetkinlikler**
+* **🧠 Üretken Yapay Zeka (LLM & NLM):** Büyük Dil Modelleri ve Doğal Dil Modelleme tekniklerini kullanarak, oyunlarda daha zeki diyalog sistemleri ve adaptif anlatılar oluşturmak.
+* **🎮 Oyun Geliştirme & Tasarım:** Unity ve Unreal Engine kullanarak, oyuncu beklentilerini karşılayan, akıllı NPC davranışlarına sahip sürükleyici dünyalar yaratmak.
+* **🌍 Sosyal Etki Odaklı Mühendislik:** Yazılım geliştirme becerilerimi, gerçek dünya sorunlarına çözüm üreten ve toplumsal ihtiyaçları karşılayan projeler için kullanmak.
+
+---
+
+## 🛠️ Yetkinlikler & Teknoloji Yığını
+
+**Programlama Dilleri**
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-**Oyun Geliştirme & AI**
-![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
-![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white)
+**Web & Frontend**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+**Yapay Zeka & Veri Bilimi**
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![OpenAI](https://img.shields.io/badge/LLM_&_NLM-412991?style=for-the-badge&logo=openai&logoColor=white)
 
-**Tasarım & Araçlar**
+**Oyun Motorları & Tasarım**
+![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
+![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white)
 
 ---
 
-## 💼 Topluluk & Liderlik
+## 💼 Profesyonel Yetkinlikler
+
+Mühendislik formasyonumu profesyonel yönetim becerileriyle destekliyorum:
+
+| Yetkinlik | Detay |
+| :--- | :--- |
+| 🇬🇧 **Yabancı Dil** | **İngilizce C1 (Advanced)** - Akademik ve profesyonel düzeyde yetkinlik. |
+| 📊 **Yönetim** | Proje Tasarımı, Proje Yönetimi, Ekip Liderliği & Koordinasyon. |
+| 🤝 **Soft Skills** | Takım Çalışması, Problem Çözme, İletişim, Tasarım Odaklı Düşünme. |
+| ⚙️ **Mühendislik** | Yazılım Geliştirme Yaşam Döngüsü (SDLC), Sistem Analizi. |
+
+---
+
+## 👥 Topluluk & Liderlik
 
 ### **Google Developer Groups (GDG) on Campus KTU**
 * **Rol:** Core Team Member - Tasarım Departmanı Başkanı 🖌️
-* **Katkı:** Yazılım becerilerimi görsel iletişimle birleştirerek topluluk projelerini destekliyor; yazılım mühendisliği ve IT üzerine düzenlenen etkinliklerde aktif rol alarak kodlama ve estetiği birleştiren süreçlere liderlik ediyorum.
+* **Katkı:** Yazılım becerilerimi görsel iletişimle birleştirerek topluluk projelerini destekliyor, etkinliklerin görsel dillerini kurguluyor ve yönetiyorum.
+
+### **KTÜ Yapay Zeka Kulübü**
+* **Rol:** Aktif Üye 🤖
+* **Katkı:** Yapay zeka projelerinde aktif rol alıyor, LLM ve makine öğrenmesi üzerine yapılan atölye çalışmalarına ve araştırmalara katkı sağlıyorum.
 
 ---
 
@@ -52,11 +74,11 @@ Karadeniz Teknik Üniversitesi (KTÜ) **İngilizce Yazılım Mühendisliği** ö
 
 Klasik filtrelemenin ötesine geçerek, oyunların "ruhunu" ve atmosferini analiz eden bir sistem geliştirdim.
 * **Teknoloji:** Python, Flask, PyTorch (SentenceTransformers), FAISS (Vektör Arama).
-* **Özellikler:** 97.000+ oyunluk veri setinde **NLP** ve **Görüntü İşleme** tekniklerini kullanarak, oyunculara "neden" o oyunu sevebileceklerini **Radar Grafikleri** ile analiz eden çoklu arama motoru.
+* **Özellikler:** 97.000+ oyunluk veri setinde **NLP** tekniklerini kullanarak, oyunculara "neden" o oyunu sevebileceklerini **Radar Grafikleri** ile analiz eden çoklu arama motoru.
 
 ---
 
-## 📫 İletişim & Bağlantı
+## 📫 İletişim
 
 Geleceğin interaktif deneyimlerini şekillendirmek adına profesyoneller ve araştırmacılarla işbirliği yapmaktan mutluluk duyarım.
 
@@ -68,4 +90,4 @@ Geleceğin interaktif deneyimlerini şekillendirmek adına profesyoneller ve ara
 </a>
 
 ---
-*Sanatın estetiği ile kodun mantığını birleştiren bir Mühendis & Tasarımcı.*
+*Sanatın estetiği ile kodun mantığını birleştiren bir Mühendis.*
