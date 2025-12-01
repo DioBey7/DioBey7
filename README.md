@@ -1,18 +1,19 @@
 # Merhaba, Ben Beyza Yazıcı! 👋
 
-### 👩‍💻 Yazılım Mühendisi Adayı | 🎮 Oyun Geliştirici | 🤖 AI & LLM Araştırmacısı
+### 👩‍💻 Yazılım Mühendisi Adayı | 🎮 Oyun Geliştirici | 🤖 AI & LLM & Machine Learning Araştırmacısı
 
-Karadeniz Teknik Üniversitesi (KTÜ) **İngilizce Yazılım Mühendisliği** öğrencisiyim. Mühendislik disiplinini yaratıcı vizyonla birleştirerek, sadece kod yazmıyor; **hisseden, öğrenen ve etkileşime giren** dijital deneyimler ve projeler tasarlıyorum.
+Karadeniz Teknik Üniversitesi (KTÜ) **İngilizce Yazılım Mühendisliği** 2. sınıf öğrencisiyim. Mühendislik disiplinini yaratıcı vizyonla birleştirerek, sadece kod yazmıyor; **hisseden, öğrenen ve etkileşime giren** dijital deneyimler ve projeler tasarlıyorum.
 
-Özellikle **Oyun Yapay Zekası**, **Doğal Dil Modelleme (NLM/LLM)** ve **Sürükleyici Oyun Deneyimi** üzerine odaklanarak, eğlence sektörünün ötesinde toplumsal fayda sağlayan kullanıcı merkezli çözümler geliştirmeyi hedefliyorum.
+Özellikle **Oyun Yapay Zekası** ve **Oyun geliştirme** , **Yapay zeka/Makine öğrenmesi/Doğal Dil Modelleme (NLM/LLM)** ve **** üzerine odaklanarak, eğlence sektörünün ötesinde toplumsal fayda sağlayan kullanıcı merkezli çözümler geliştirmeyi hedefliyorum.
 
 ---
 
 ## 🚀 Odak Alanlarım & İlgi Sahalarım
 
-* **🧠 Üretken Yapay Zeka (LLM & NLM):** Büyük Dil Modelleri ve Doğal Dil Modelleme tekniklerini kullanarak, oyunlarda daha zeki diyalog sistemleri ve adaptif anlatılar oluşturmak.
-* **🎮 Oyun Geliştirme & Tasarım:** Unity ve Unreal Engine kullanarak, oyuncu beklentilerini karşılayan, akıllı NPC davranışlarına sahip sürükleyici dünyalar yaratmak.
+* **🧠 Üretken Yapay Zeka (LLM & NLM):** Makine öğrenmesi, Büyük Dil Modelleri ve Doğal Dil Modelleme tekniklerini kullanarak projeler ve sorunlara yazılım odaklı çözümler geliştirmek.
+* **🎮 Oyun Geliştirme & Tasarım:** Unity ve Unreal Engine kullanarak, oyuncu beklentilerini karşılayan, akıllı NPC davranışlarına sahip sürükleyici dünyalar yaratmak ve oyun geliştiriciliği.
 * **🌍 Sosyal Etki Odaklı Mühendislik:** Yazılım geliştirme becerilerimi, gerçek dünya sorunlarına çözüm üreten ve toplumsal ihtiyaçları karşılayan projeler için kullanmak.
+* **🖌️ Tasarım:** Canva, figma, picsart gibi platformları kullanarak GDG on Campus KTU gibi kulüplerde tasarım becerilerimi etkinliklere dökmek ve frontend becerilerimi kullanarak projelerimi kullanıcı dostu ve estetik bir şekilde sunmak.
 
 ---
 
@@ -85,7 +86,7 @@ Geleceğin interaktif deneyimlerini şekillendirmek adına profesyoneller ve ara
 <a href="https://www.linkedin.com/in/beyza-yazıcı-400183332">
   <img src="https://img.shields.io/badge/LinkedIn-Beyza%20Yazıcı-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-<a href="mailto:beyza04yazici2005@gmail.com">
+<a href="mailto:beyzayazici2005@hotmail.com">
   <img src="https://img.shields.io/badge/Email-Bana%20Ulaşın-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 
