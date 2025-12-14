@@ -4,7 +4,7 @@
 
 Karadeniz Teknik Üniversitesi (KTÜ) **İngilizce Yazılım Mühendisliği** 2. sınıf öğrencisiyim. Mühendislik disiplinini yaratıcı vizyonla birleştirerek, sadece kod yazmıyor; **hisseden, öğrenen ve etkileşime giren** dijital deneyimler ve projeler tasarlıyorum.
 
-Özellikle **Oyun Yapay Zekası** ve **Oyun geliştirme** , **Yapay zeka/Makine öğrenmesi/Doğal Dil Modelleme (NLM/LLM)** ve **** üzerine odaklanarak, eğlence sektörünün ötesinde toplumsal fayda sağlayan kullanıcı merkezli çözümler geliştirmeyi hedefliyorum.
+Özellikle **Oyun geliştirme** , **Yapay zeka/Makine öğrenmesi/Doğal Dil Modelleme (NLM/LLM)** ve **Çözüm odaklı yazılımlar geliştirme** üzerine odaklanarak, eğlence sektörünün ötesinde toplumsal fayda sağlayan kullanıcı merkezli çözümler geliştirmeyi hedefliyorum.
 
 ---
 
