@@ -103,6 +103,3 @@ Sadece kod yazmayı değil, bilgiyi paylaşmayı ve toplulukla büyümeyi önems
 <div align="center">
   <p>✨ <em>"En iyi kod, henüz yazılmamış olandır." Geleceğin teknolojilerini bugünden inşa etmek için işbirliğine her zaman açığım.</em> ✨</p>
 </div>
-<div align="center">
-  <p>✨ <em>"En iyi kod, henüz yazılmamış olandır." Geleceğin teknolojilerini bugünden inşa etmek için işbirliğine her zaman açığım.</em> ✨</p>
-</div>
