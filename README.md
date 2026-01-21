@@ -1,7 +1,7 @@
 # Merhaba, Ben Beyza Yazıcı! 👋
 
 <div align="center">
-  <h3>👩‍💻 Yazılım Mühendisi Adayı | 🎮 Oyun Geliştirici | Full Stack Developer | 🤖 AI/ML & NLP Meraklısı</h3>
+  <h3>Yazılım Mühendisi Adayı | Oyun Geliştirici | Full Stack Developer | AI/ML & NLP Meraklısı</h3>
   <br>
   <p>
     <em>"Sanatın estetiğini kodun mantığıyla birleştirerek, sadece çalışan değil; hisseden, öğrenen ve insanla etkileşime giren dijital deneyimler tasarlıyorum."</em>
