@@ -1,7 +1,7 @@
 <div align="center">
 
-# 🌌 BEYZA YAZICI
-### Software Engineer | AI & Hardware Optimization | Indie Game Developer
+# BEYZA YAZICI
+### Software Engineering Student | Interested in AI & Low-Level & IoT Systems  | Indie Game Developer/Designer
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
@@ -21,10 +21,6 @@
 
 <br>
 
-![Status](https://img.shields.io/badge/Durum-Yazılım_Mühendisliği_Stajı_Arıyor_🚀-2ea043?style=for-the-badge&logo=rocket&logoColor=white)
-&nbsp;&nbsp;
-![Year](https://img.shields.io/badge/2026-3.Sınıf_Öğrencisi-blue?style=for-the-badge)
-
 </div>
 
 <br>
@@ -33,7 +29,7 @@
 
 ## 🚀 Mühendislik Vizyonum & Hakkımda
 
-Karadeniz Teknik Üniversitesi **Yazılım Mühendisliği (%100 İngilizce)** bölümünün 3. sınıf öğrencisiyim. Mühendislik disiplinini karmaşık algoritmaları, donanım mimarilerini ve yazılım tasarım prensiplerinı anlamak suretiyle, sadece çalışan değil, **ölçeklenebilir, bakımlanabilir ve insan odaklı dijital ekosistemler** tasarlıyorum.
+Karadeniz Teknik Üniversitesi **Yazılım Mühendisliği (%100 İngilizce)** bölümünün 2. sınıf öğrencisiyim. Mühendislik disiplinini karmaşık algoritmaları, donanım mimarilerini ve yazılım tasarım prensiplerinı anlamak suretiyle, sadece çalışan değil, **ölçeklenebilir, bakımlanabilir ve insan odaklı dijital ekosistemler** tasarlıyorum.
 
 **C1 seviyesindeki İngilizcem** ile global akademik literatürü, AR-GE yayınlarını ve modern sistem mimarilerini takip ederek projelerimde entegre ediyorum. Temel yetkinlik alanlarım:
 
@@ -333,8 +329,7 @@ Teknolojiyi bir **kültür** olarak görüyor ve bu ekosistemin her alanında ak
 ## 📚 Eğitim & Sertifikasyonlar
 
 **Karadeniz Teknik Üniversitesi (KTÜ)**
-- Yazılım Mühendisliği (B.Sc.) - %100 İngilizce, 3. Sınıf Öğrencisi
-- GPA: 3.6/4.0
+- Yazılım Mühendisliği (B.Sc.) - %100 İngilizce, 2. Sınıf Öğrencisi
 - Odak alanları: Yapay Zeka, Sistem Mimarisi, Oyun Geliştirme
 
 **İlgili Kurslar & Sertifikasyonlar:**
@@ -392,5 +387,4 @@ Projelerimde:
   
   <br>
   
-  <img alt="Visitor Badge" src="https://visitor-badge.glitch.me/badge?page_id=DioBey7.HAKKIMDA" />
 </div>
