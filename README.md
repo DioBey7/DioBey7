@@ -31,7 +31,7 @@
 
 ## 🚀 Mühendislik Vizyonum & Hakkımda | My Engineering Vision & About Me
 
-### 🇹🇷 Türkçe Versiyon
+### 🇹🇷 Türkçe
 
 Karadeniz Teknik Üniversitesi **Yazılım Mühendisliği (%100 İngilizce)** bölümünün 2. sınıf öğrencisiyim. Mühendislik disiplinini karmaşık algoritmaları, donanım mimarilerini ve yazılım tasarım prensiplerini mastered edebilen bir yazılım mühendisi olarak kendimi geliştiriyorum.
 
@@ -57,7 +57,7 @@ Karadeniz Teknik Üniversitesi **Yazılım Mühendisliği (%100 İngilizce)** b�
 
 ---
 
-### 🇬🇧 English Version
+### 🇬🇧 English
 
 I'm a 2nd-year student at Karadeniz Technical University, studying **Software Engineering (100% English-taught program)**. I'm developing myself as a software engineer who masters complex algorithms, hardware architectures, and software design principles through engineering discipline.
 
@@ -91,7 +91,7 @@ With **C1-level English proficiency**, I follow global academic literature, R&D 
 **Data Analytics Software for Fossil Fuels and Industrial CO2 Emissions**
 
 * **Takım / Team:** "Bourgeois" - Çevre ve Sürdürülebilirlik Odaklı Proje / Environment & Sustainability-Focused Project
-* **Geliştirme Süresi / Development Duration:** 36-hour intensive hackathon cycle
+* **Geliştirme Süresi / Development Duration:** 36 saatlik yoğun hackathon döngüsü / 36-hour intensive hackathon cycle
 * **Mühendislik Çözümü / Engineering Solution:** 
   - Devasa çevresel veri setlerini (CO2 emisyonları) Python ve Pandas ile ETL işleminden geçirdik / Processed massive environmental datasets (CO2 emissions) through ETL with Python and Pandas
   - Veriyi semantik olarak anlamlandırmak için NLP tekniklerini uyguladık / Applied NLP techniques for semantic data interpretation
@@ -104,24 +104,44 @@ With **C1-level English proficiency**, I follow global academic literature, R&D 
 
 ## 🌟 Öne Çıkan Mühendislik Projeleri | Flagship Engineering Projects
 
+### 🇹🇷 Türkçe
+
 Projelerimde **salt kodlama döngüsünün ötesine** geçerek; sistem mimarisi, darboğaz analizi, performans optimizasyonu ve bakımlanabilirlik prensiplerini ön planda tutuyorum. Her proje, gerçek dünyada karşılaşılan mühendislik problemi çözüyor.
+
+### 🇬🇧 English
 
 In my projects, I go **beyond simple coding cycles**, prioritizing system architecture, bottleneck analysis, performance optimization, and maintainability principles. Each project solves real-world engineering challenges.
 
 ---
 
 ### 1. 🔬 TÜBİTAK 2209-A: YOLOv5-Based Pneumonia Detection GPU Architecture Performance Analysis
+*Donanım Seviyesinde Derin Öğrenme Optimizasyonu ve Karşılaştırmalı AR-GE Çalışması*
 *Hardware-Level Deep Learning Optimization & Comparative R&D Study*
 
 **Mühendislik Problemi / Engineering Problem:**
-Derin öğrenme tabanlı tıbbi teşhis sistemleri, heterojen donanım mimarilerinde (Tesla P100 vs RTX 4090) ciddi performans varyasyonları sergiliyordu.
-Deep learning-based medical diagnosis systems exhibited significant performance variations across heterogeneous hardware architectures (Tesla P100 vs RTX 4090).
+
+🇹🇷 Derin öğrenme tabanlı tıbbi teşhis sistemleri, heterojen donanım mimarilerinde (Tesla P100 vs RTX 4090) ciddi performans varyasyonları sergiliyordu. CUDA çekirdek sayısı, VRAM bant genişliği ve compute unit sayısı doğrudan inference hızını belirlemekteydi.
+
+🇬🇧 Deep learning-based medical diagnosis systems exhibited significant performance variations across heterogeneous hardware architectures (Tesla P100 vs RTX 4090). CUDA core count, VRAM bandwidth, and compute unit count directly determined inference speed.
 
 **Mimari Çözüm & Metodoloji / Architecture Solution & Methodology:**
-- YOLOv5 nesne tespit mimarisini **Tesla P100, T4, A100 ve RTX 4090** GPU'larında sistematik olarak test ettim / Systematically tested YOLOv5 object detection across Tesla P100, T4, A100, and RTX 4090 GPUs
-- NVIDIA Profiler ve `nvidia-smi` telemetrisi ile GPU kernel yürütme zamanı, bellek bant genişliği ve compute utilization profil aldım / Profiled GPU kernel execution time, memory bandwidth, and compute utilization using NVIDIA Profiler and nvidia-smi
-- **Batch size, precision (FP32 vs FP16), quantization** parametrelerinin performansa etkisini ölçüm yoluyla analiz ettim / Analyzed impact of batch size, precision (FP32 vs FP16), and quantization parameters through measurement
-- Sonuçları akademik raporlama standardına uygun şekilde belgeledim / Documented results according to academic reporting standards
+
+🇹🇷
+- YOLOv5 nesne tespit mimarisini **Tesla P100, T4, A100 ve RTX 4090** GPU'larında sistematik olarak test ettim
+- NVIDIA Profiler ve `nvidia-smi` telemetrisi ile GPU kernel yürütme zamanı, bellek bant genişliği ve compute utilization profil aldım
+- **Batch size, precision (FP32 vs FP16), quantization** parametrelerinin performansa etkisini ölçüm yoluyla analiz ettim
+- Sonuçları akademik raporlama standardına uygun şekilde belgeledim
+
+🇬🇧
+- Systematically tested YOLOv5 object detection across Tesla P100, T4, A100, and RTX 4090 GPUs
+- Profiled GPU kernel execution time, memory bandwidth, and compute utilization using NVIDIA Profiler and nvidia-smi
+- Analyzed impact of batch size, precision (FP32 vs FP16), and quantization parameters through measurement
+- Documented results according to academic reporting standards
+
+**Teknik Detaylar / Technical Details:**
+- YOLOv5 model optimizasyon: Pruning, quantization-aware training (QAT)
+- CUDA kernel profiling ve memory bandwidth optimization
+- Cross-platform inference benchmarking
 
 **Tech Stack:** 
 `Python`, `PyTorch`, `YOLOv5`, `NVIDIA CUDA`, `NVIDIA-SMI`, `Computer Vision`, `NumPy/Pandas`, `Matplotlib/Seaborn`
@@ -132,15 +152,31 @@ Deep learning-based medical diagnosis systems exhibited significant performance 
 *Audio-Driven Predictive AI & Behavior Tree Simulation*
 
 **Mühendislik Problemi / Engineering Problem:**
-Geleneksel oyun AI'ları monolitik `if/else` bloklarıyla yönetiliyordu; bu yapı ölçeklenemiyor, değiştirilemiyordu.
-Traditional game AIs were managed with monolithic `if/else` blocks; this structure couldn't scale or be modified.
+
+🇹🇷 Geleneksel oyun AI'ları monolitik `if/else` bloklarıyla yönetiliyordu; bu yapı ölçeklenemiyor, değiştirilemiyordu. Ayrıca düşman AI'sı hedefin **anlık hareket verilerini** ve **atmosferik ses** bilgilerini kullanmıyordu.
+
+🇬🇧 Traditional game AIs were managed with monolithic `if/else` blocks; this structure couldn't scale or be modified. Additionally, enemy AI didn't utilize the target's **real-time movement data** and **atmospheric audio** information.
 
 **Mimari Çözüm / Architecture Solution:**
-- **Modüler Davranış Ağacı (Behavior Tree)** mimarisini uyguladım — AAA oyun endüstrisinin standart çözümü / Implemented modular Behavior Tree architecture — industry standard in AAA game development
-- Düşman zihni hedefin anlık **hız vektörünü** hesaplayarak, futural pozisyon tahminlemesi yapıyor / Enemy AI calculates target's velocity vector for predictive positioning
-- **Ses API** ile ortam ses seviyelerini monitör eden durum makineleri / State machines monitoring ambient audio levels via Audio API
-- **A* Pathfinding** ile dinamik rota hesaplama / Dynamic route calculation with A* Pathfinding
-- Behavior Tree'de modüler task'lar: `Chase`, `Investigate`, `Flank`, `Retreat` / Modular tasks in Behavior Tree
+
+🇹🇷
+- **Modüler Davranış Ağacı (Behavior Tree)** mimarisini uyguladım — AAA oyun endüstrisinin standart çözümü
+- Düşman zihni hedefin anlık **hız vektörünü** $\vec{v} = \frac{\Delta \vec{position}}{\Delta t}$ hesaplayarak, futural pozisyon tahminlemesi yapıyor
+- **Ses API** ile ortam ses seviyelerini (alarmlar, adımlar) monitör eden durum makineleri
+- **A* Pathfinding** ile dinamik rota hesaplama
+- Behavior Tree'de modüler task'lar: `Chase`, `Investigate`, `Flank`, `Retreat`
+
+🇬🇧
+- Implemented **modular Behavior Tree architecture** — industry standard in AAA game development
+- Enemy AI calculates target's **velocity vector** $\vec{v} = \frac{\Delta \vec{position}}{\Delta t}$ for predictive positioning
+- State machines monitoring **ambient audio levels** (alarms, footsteps) via Audio API
+- Dynamic route calculation with **A* Pathfinding**
+- Modular tasks in Behavior Tree: `Chase`, `Investigate`, `Flank`, `Retreat`
+
+**Teknik Detaylar / Technical Details:**
+- Vector calculus ile çarpışma tahmini ve intercept calculations
+- Audio spatializer ile 3D ses pozisyonu analizi
+- Behavior Tree'nin composite node'ları (Selector, Sequence)
 
 **Tech Stack:** 
 `C#`, `Unity 3D`, `Behavior Tree Architecture`, `A* Pathfinding`, `Vector Calculus`, `Audio API`, `Physics Simulation`
@@ -150,23 +186,47 @@ Traditional game AIs were managed with monolithic `if/else` blocks; this structu
 ---
 
 ### 3. 🏛️ [Axiom AI](https://github.com/DioBey7/Axiom-AI)
+*Yüksek Performanslı Multimodal RAG Ekosistemi & Vision Language Model Integration*
 *High-Performance Multimodal RAG Ecosystem & Vision Language Model Integration*
 
 **Mühendislik Problemi / Engineering Problem:**
-- Statik vektör veri tabanları (Pinecone, Weaviate) karmaşık görsel dokümanları anlamlandıramıyor / Static vector databases cannot comprehend complex visual documents
-- API tabanlı LLM sistemleri yüksek yük altında rate limiting ile çöküyor / API-based LLM systems collapse under high load with rate limiting
-- Endüstriyel raporlar otomatik parsing ve semantik indexing eksik / Industrial reports lack automatic parsing and semantic indexing
+
+🇹🇷
+- Statik vektör veri tabanları (Pinecone, Weaviate) karmaşık görsel dokümanları (şemalar, tablolar, grafikler) anlamlandıramıyor
+- API tabanlı LLM sistemleri (OpenAI, Anthropic) yüksek yük altında rate limiting ve token kotası çöküyor
+- Endüstriyel raporlar (PDF, Excel) otomatik parsing ve semantik indexing eksik
+
+🇬🇧
+- Static vector databases (Pinecone, Weaviate) cannot comprehend complex visual documents (diagrams, tables, charts)
+- API-based LLM systems (OpenAI, Anthropic) collapse under high load with rate limiting and token quotas
+- Industrial reports (PDF, Excel) lack automatic parsing and semantic indexing
 
 **Mimari Çözüm / Architecture Solution:**
-- **Google Gemini 2.0 Flash** + **LangChain** kullanarak Multimodal RAG sistemi tasarladım / Designed Multimodal RAG system using Google Gemini 2.0 Flash + LangChain
-- Görsel dokümanları OCR + Vision Language Model ile analiz ettim / Analyzed visual documents with OCR + Vision Language Models
-- **ChromaDB** (açık kaynak vector DB) ile on-premises veri tabanı oluşturdum / Created on-premises vector database with ChromaDB (open-source)
-- Modüler çalışma alanı yönetimi ve PDF raporlama / Modular workspace management and PDF reporting
-- **Streamlit** ile interaktif web arayüzü / Interactive web interface with Streamlit
+
+🇹🇷
+- **Google Gemini 2.0 Flash** + **LangChain** kullanarak Multimodal RAG sistemi tasarladım
+- Görsel dokümanları OCR + Vision Language Model ile analiz ettim
+- **ChromaDB** (açık kaynak vector DB) ile on-premises veri tabanı oluşturdum (rate limit yok)
+- Modüler çalışma alanı yönetimi ve PDF raporlama (FPDF2)
+- **Streamlit** ile interaktif web arayüzü
+
+🇬🇧
+- Designed Multimodal RAG system using **Google Gemini 2.0 Flash** + **LangChain**
+- Analyzed visual documents with OCR + Vision Language Models
+- Created **on-premises vector database with ChromaDB** (no rate limits)
+- Modular workspace management and PDF reporting (FPDF2)
+- Interactive **web interface with Streamlit**
+
+**Teknik Detaylar / Technical Details:**
+- LangChain's retrieval chains ve prompt engineering
+- Multi-modal embedding'ler (text + vision)
+- Persistent vector storage ve semantic search
+- PDF parsing ve table extraction
+- Error handling ve fallback mekanizmalar
 
 **Performans Metrikleri / Performance Metrics:**
-- Vektör arama: <500ms (100K+ doküman üzerinde) / Vector search: <500ms (100K+ documents)
-- Vision analiz: <2s per image (Gemini API) / Vision analysis: <2s per image
+- Vektör arama / Vector search: <500ms (100K+ doküman üzerinde / documents)
+- Vision analiz / Vision analysis: <2s per image (Gemini API)
 
 **Tech Stack:** 
 `Python`, `Streamlit`, `LangChain`, `ChromaDB`, `Google Gemini API`, `Multimodal LLMs`, `FPDF2`, `PyPDF`, `Pillow`
@@ -179,18 +239,47 @@ Traditional game AIs were managed with monolithic `if/else` blocks; this structu
 *Autonomous IoT Security & Life Support Framework*
 
 **Mühendislik Problemi / Engineering Problem:**
-Kritik yaşam alanlarında (kütüphane, depo, ev) sensör verilerinin anlık analiz edilmemesi ve acil durum senaryolarında deterministik karar mekanizmasının eksikliği yangın ve diğer tehlikeli durumlar oluşturuyordu.
-Lack of real-time sensor analysis and deterministic decision mechanisms in critical spaces created fire and safety risks.
+
+🇹🇷 Kritik yaşam alanlarında (kütüphane, depo, ev) sensör verilerinin (gaz, alev, nem) anlık analiz edilmemesi ve acil durum senaryolarında deterministik karar mekanizmasının eksikliği yangın ve diğer tehlikeli durumlar oluşturuyordu.
+
+🇬🇧 Lack of real-time sensor analysis in critical spaces (library, warehouse, home) and absence of deterministic decision mechanisms in emergency scenarios created fire and safety risks.
 
 **Mimari Çözüm / Architecture Solution:**
-- **NodeMCU (ESP8266)** tabanlı, **Deterministik Sonlu Otomat (DFA)** durum makinesi mantığıyla çalışan gömülü sistem / Embedded system with Deterministic Finite Automaton logic on NodeMCU
-- Çok sensörlü veri fuzzy logic ile analiz / Multi-sensor fuzzy logic analysis
-- Acil durum tespitinde **hata toleransı**: Moving average ile false positive'ler filtrelendi / Error tolerance in emergency detection with moving average filtering
-- **Telegram Bot API** ile real-time acil durum alertleri / Real-time emergency alerts via Telegram Bot API
-- Termostat kontrolü ve otomatik fan activation / Thermostat control and automatic fan activation
+
+🇹🇷
+- **NodeMCU (ESP8266)** tabanlı, **Deterministik Sonlu Otomat (DFA)** durum makinesi mantığıyla çalışan gömülü sistem
+- Çok sensörlü veri fuzzy logic ile analiz:
+  - MQ-2 gaz sensörü (propan, butan, metan)
+  - Flame detection sensörü (alev IR algılama)
+  - DHT22 (sıcaklık & nem)
+- Acil durum tespitinde **hata toleransı**: Sensor verilerinin moving average'ı ile false positive'ler filtrelendi
+- **Telegram Bot API** ile real-time acil durum alertleri
+- Termostat kontrolü ve otomatik fan activation
+
+🇬🇧
+- **Embedded system with Deterministic Finite Automaton** logic on NodeMCU (ESP8266)
+- **Multi-sensor fuzzy logic analysis:**
+  - MQ-2 gas sensor (propane, butane, methane)
+  - Flame detection sensor (IR flame sensing)
+  - DHT22 (temperature & humidity)
+- **Error tolerance** in emergency detection with moving average filtering
+- **Real-time emergency alerts via Telegram Bot API**
+- Thermostat control and automatic fan activation
+
+**State Machine (DFA) Tasarımı / Design:**
+```
+[NORMAL] --[fire_detected]--> [FIRE_ALERT] --[cooled]--> [NORMAL]
+[NORMAL] --[temp<5°C]--> [FREEZE_ALERT] --[heated]--> [NORMAL]
+```
+
+**Teknik Detaylar / Technical Details:**
+- MQTT protocol ile cloud bağlantısı (isteğe bağlı)
+- Güç yönetimi ve low-power mode
+- Over-the-air (OTA) firmware updates
+- Persistaent data logging (SPIFFS)
 
 **Tech Stack:** 
-`Python` (backend), `C++` (firmware), `Arduino IDE`, `ESP8266 SDK`, `DFA Logic`, `IoT Protocols`, `Telegram API`, `MQTT (optional)`, `SQLite`
+`Python` (backend), `C++` (firmware), `Arduino IDE`, `ESP8266 SDK`, `DFA Logic`, `IoT Protocols (WiFi)`, `Telegram API`, `MQTT (optional)`, `SQLite (logging)`
 
 **Repo Link:** https://github.com/DioBey7/AeroStat-IoT
 
@@ -200,19 +289,47 @@ Lack of real-time sensor analysis and deterministic decision mechanisms in criti
 *NLP-Powered High-Performance Game Recommendation Engine*
 
 **Mühendislik Problemi / Engineering Problem:**
-- 97.000+ oyunluk veri setinde klasik "tür/tag" filtrelemesi kullanıcının **semantik** niyetini yakalamıyordu / Classic genre/tag filtering on 97K+ games couldn't capture user's semantic intent
-- "Samurai game" araması, "feudal" etiketlerini göz ardı ediyordu / "Samurai game" search missed "feudal" tags
-- Collaborative filtering soğuk-başlangıç problemine çözüm bulamıyordu / Collaborative filtering couldn't solve cold-start problem
+
+🇹🇷
+- 97.000+ oyunluk devasa Steam/IGDB veri setinde klasik "tür/tag" filtrelemesi kullanıcının **semantik** niyetini yakalamıyordu
+- "Samurai game" araması, "feudal" veya "melee combat" etiketlerini göz ardı ediyordu
+- Collaborative filtering yaklaşımı soğuk-başlangıç problemine çözüm bulamıyordu
+
+🇬🇧
+- Classic genre/tag filtering on 97K+ game dataset couldn't capture user's **semantic intent**
+- "Samurai game" search missed "feudal" or "melee combat" tags
+- Collaborative filtering couldn't solve cold-start problem
 
 **Mimari Çözüm / Architecture Solution:**
-- **SentenceTransformers** ile oyun açıklamalarını 384-boyutlu vektör uzayına taşıdım / Embedded game descriptions into 384-dimensional vector space with SentenceTransformers
-- Klasik filtreleme yerine **Kozinüs Benzerliği** ile anlamsal tarama / Semantic search using Cosine Similarity instead of classic filtering
-- **Hibrit filtreleme**: Vector similarity + budget filter + platform filter / Hybrid filtering approach
-- **FAISS** ile <100ms arama latansı / Sub-100ms search latency with FAISS
-- **Frontend**: Streamlit interactive dashboard / Streamlit dashboard
+
+🇹🇷
+- **SentenceTransformers** (all-MiniLM-L6-v2 model) ile oyun açıklamalarını 384-boyutlu vektör uzayına taşıdım
+- Klasik filtreleme yerine **Kozinüs Benzerliği (Cosine Similarity)** ile anlamsal tarama:
+  ```
+  similarity = (query_vector · game_vector) / (||query_vector|| × ||game_vector||)
+  ```
+- **Hibrit filtreleme**: Vector similarity + budget filter + platform filter + user rating threshold
+- Performans optimizasyonu: FAISS (Facebook AI Similarity Search) ile <100ms arama latansı
+- **Frontend**: Streamlit interactive dashboard
+
+🇬🇧
+- **Embedded game descriptions into 384-dimensional vector space with SentenceTransformers**
+- **Semantic search using Cosine Similarity** instead of classic filtering:
+  ```
+  similarity = (query_vector · game_vector) / (||query_vector|| × ||game_vector||)
+  ```
+- **Hybrid filtering**: Vector similarity + budget filter + platform filter + rating threshold
+- **Performance optimization: <100ms search latency with FAISS**
+- **Frontend**: Streamlit interactive dashboard
+
+**Teknik Detaylar / Technical Details:**
+- Vektör embedding ve similarity search
+- FAISS indexing
+- Batch processing (1000+ oyun/saniye)
+- A/B testing setup
 
 **Performans Metrikleri / Performance Metrics:**
-- Query latency: 45-120ms (97K+ oyun) / 45-120ms (97K+ games)
+- Query latency: 45-120ms (97K+ oyun / games)
 - Accuracy (mean reciprocal rank): 0.82
 - Throughput: 1200+ queries/min
 
@@ -227,25 +344,43 @@ Lack of real-time sensor analysis and deterministic decision mechanisms in criti
 *Strict OOP-Based Disaster Management Framework*
 
 **Mühendislik Problemi / Engineering Problem:**
-Afet hazırlık sürecinde değişken ihtiyaçlar (bebek, evcil hayvan, yaşlı) geleneksel yazılımlarda yönetilemiyor.
-Variable disaster preparation needs (infants, pets, elderly) couldn't be managed in traditional monolithic software.
+
+🇹🇷 Afet hazırlık sürecinde değişken ve kişiselleştirilmiş ihtiyaçlar (bebek, evcil hayvan, yaşlı, tıbbi durumlar) geleneksel monolitik yazılımlarda yönetilemiyor, bakım ve genişleme mümkün değil.
+
+🇬🇧 Variable and personalized disaster preparation needs (infants, pets, elderly, medical conditions) cannot be managed in traditional monolithic software, making maintenance and expansion impossible.
 
 **Mimari Çözüm / Architecture Solution:**
-- **Strict OOP** prensipleri merkeze alan Java Swing mimarisi / Java Swing architecture centered on strict OOP principles
-- Base abstract class `DisasterItem` → `Food`, `Water`, `MedicalKit`, `PetSupply` alt sınıfları / Abstract base class with specialized subclasses
-- **Strategy Pattern** ile bütçe takibi ve "Hayatta Kalma Skoru" hesaplama / Budget tracking and Survival Score calculation with Strategy Pattern
-- **Modüler repository pattern** ile JSON/XML persist / Modular repository pattern for data persistence
-- **AFAD standartları** ile alignment / Aligned with Turkish disaster management standards
 
-**Features:**
+🇹🇷
+- **Strict OOP** prensipleri (Inheritance, Polymorphism, Encapsulation) merkeze alan Java Swing mimarisi
+- Base abstract class `DisasterItem` → `Food`, `Water`, `MedicalKit`, `PetSupply` alt sınıfları
+- **Strategy Pattern** ile bütçe takibi ve "Hayatta Kalma Skoru" (Survival Score) hesaplama
+- **Modüler repository pattern** ile JSON/XML dosya persist
+- **AFAD (Türkiye Afet Yönetimi) standartları** ile alignment
+
+🇬🇧
+- **Java Swing architecture centered on strict OOP principles** (Inheritance, Polymorphism, Encapsulation)
+- Base abstract class `DisasterItem` → Specialized subclasses: `Food`, `Water`, `MedicalKit`, `PetSupply`
+- **Budget tracking and Survival Score calculation with Strategy Pattern**
+- **Modular repository pattern for JSON/XML persistence**
+- **Aligned with Turkish disaster management standards (AFAD)**
+
+**Teknik Detaylar / Technical Details:**
+- MVC mimarisi (Model-View-Controller)
+- Factory pattern ile component creation
+- Observer pattern ile UI refresh
+- File I/O optimization (streaming, buffering)
+- Algoritmic scoring: Maslow's hierarchy + risk analysis
+
+**Features / Özellikler:**
 - Kişi başı risk analizi / Per-person risk analysis
 - Bütçe planlama ve tracking / Budget planning and tracking
-- Gerekli ekipman hesaplayıcı / Equipment calculator
+- Gerekli ekipman ve yiyecek hesaplayıcı / Equipment and food calculator
 - Kişiselleştirilebilir kontrol listeleri / Customizable checklists
 - Multi-language support (TR/EN)
 
 **Tech Stack:** 
-`Java`, `Java Swing`, `OOP Design Patterns`, `File I/O`, `JSON Parsing`, `Algorithmic Scoring`
+`Java`, `Java Swing`, `OOP Design Patterns (Strategy, Factory, Observer)`, `File I/O`, `JSON Parsing`, `Algorithmic Scoring`
 
 **Repo Link:** https://github.com/DioBey7/Smart-Earthquake-Bag-Assistant
 
@@ -276,24 +411,46 @@ Variable disaster preparation needs (infants, pets, elderly) couldn't be managed
 ## 👥 Topluluk Liderliği & Kreatif Çalışmalar | Community Leadership & Creative Work
 
 ### 🤖 KTÜ AI Kulübü - Organizatör & Araştırmacı | Organizer & Researcher
-- **DATA AI SUMMIT**: Event management, speaker coordination, agenda design
-- Makine öğrenmesi workshop serileri / Machine learning workshop series
-- Akademik araştırma tartışma grupları / Academic research discussion groups
+
+**🇹🇷 Türkçe:**
+- **DATA AI SUMMIT** (Kulübün en prestijli etkinliği): Etkinlik süreci yönetimi, konuşmacı koordinasyonu, agenda tasarımı
+- Makine öğrenmesi ve yapay zeka araştırması üzerine workshop serileri düzenleme
+- Akademik makaleler ve ar-ge raporları inceleme ve tartışma grupları
+
+**🇬🇧 English:**
+- **DATA AI SUMMIT** (Club's most prestigious event): Event management, speaker coordination, agenda design
+- Machine learning and AI research workshop series
+- Academic paper and R&D report review and discussion groups
 
 ### 🎨 GDG on Campus KTU - Tasarım Departmanı Başkanı | Design Department Head
-- Tüm etkinliklerin UI/UX tasarımı / UI/UX design for all events
-- Teknik ve tasarım ekipleri arasında köprü kurma / Bridging technical and design teams
-- Design thinking workshop'ları / Design thinking workshops
-- Figma design system ve reusable component library / Design system and component library
+
+**🇹🇷 Türkçe:**
+- Tüm etkinliklerin UI/UX tasarımı ve visual branding mimarisi
+- Teknik geliştirici ekipleri ile tasarımcılar arasında iletişim köprüsü
+- Design thinking workshop'ları ve kullanıcı araştırması (UX Research)
+- Figma design system'i ve reusable component library'si oluşturma
+
+**🇬🇧 English:**
+- UI/UX design and visual branding architecture for all events
+- Bridge between technical developers and designers
+- Design thinking workshops and user research (UX Research)
+- Creating Figma design system and reusable component library
 
 ### 🎙️ Oyun Sektörü Danışmanlığı | Gaming Industry Consulting
-- Indie ve AAA oyun projeleri için yerelleştirme / Localization for indie & AAA games
-- Oyun sektöründe ses tasarımı / Game audio design consulting
-- Türkçe oyun geliştirme komunite'si / Turkish game dev community liaison
+
+**🇹🇷 Türkçe:**
+- **Indie ve AAA oyun projeleri** için Türkiye topluluğu adına yerelleştirme (localization) ve yama (patch) desteği
+- Oyun sektöründe ses tasarımı ve karakter seslendirmesi danışmalığı
+- Türkçe oyun geliştirme komunite'si içinde bağlantı kurucu rol
+
+**🇬🇧 English:**
+- **Localization and patching support** for indie & AAA game projects on behalf of Turkish community
+- Game audio design and voice acting consulting
+- Community liaison for Turkish game development ecosystem
 
 ---
 
-## 📊 GitHub Analizleri & İstatistikler | GitHub Analytics & Stats
+## �� GitHub Analizleri & İstatistikler | GitHub Analytics & Stats
 
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -318,8 +475,8 @@ Variable disaster preparation needs (infants, pets, elderly) couldn't be managed
 ## 📚 Eğitim & Sertifikasyonlar | Education & Certifications
 
 **Karadeniz Teknik Üniversitesi (KTÜ) | Karadeniz Technical University**
-- Yazılım Mühendisliği (B.Sc.) | Software Engineering - %100 English, 2nd Year Student
-- Odak alanları | Focus Areas: AI, System Architecture, Game Development
+- Yazılım Mühendisliği (B.Sc.) | Software Engineering (B.Sc.) - %100 İngilizce / 100% English, 2. Sınıf Öğrencisi / 2nd Year Student
+- Odak alanları | Focus Areas: Yapay Zeka / AI, Sistem Mimarisi / System Architecture, Oyun Geliştirme / Game Development
 
 **İlgili Kurslar & Sertifikasyonlar | Relevant Courses & Certifications:**
 - Deep Learning Specialization (in-progress)
@@ -332,29 +489,52 @@ Variable disaster preparation needs (infants, pets, elderly) couldn't be managed
 ## 🎯 Aktif Projeler & Gelecek Vizyonum | Active Projects & Future Vision
 
 ### Şu Anda Çalışıyor | Currently Working On:
-- **Edge AI Optimization**: Real-time deep learning on NVIDIA Jetson platforms
+
+🇹🇷
+- **Edge AI Optimization**: NVIDIA Jetson platformunda gerçek-zamanlı derin öğrenme modelleri
+- **Multimodal RAG v2.0**: Ses ve video desteği ile geliştirilmiş sürüm
+- **Decentralized Game Asset Marketplace**: Web3 teknolojileri ile indie oyun ekonomisi
+
+🇬🇧
+- **Edge AI Optimization**: Real-time deep learning models on NVIDIA Jetson platforms
 - **Multimodal RAG v2.0**: Enhanced version with audio and video support
 - **Decentralized Game Asset Marketplace**: Web3 indie game economy
 
 ### 2026 Hedefleri | 2026 Goals:
-- Endüstriye yazılım mühendisliği stajı | Industry software engineering internship
-- 2-3 open source projelerine katkı | Contribute to 2-3 open-source projects
-- Akademik makale yayınlama | Publish academic paper
-- Community hackathon düzenleme | Organize community hackathon
+
+🇹🇷
+- Endüstriye yazılım mühendisliği stajı
+- 2-3 open source projeye katkı
+- Bir akademik makale yayınlama (TÜBİTAK projesi sonuçları)
+- Community hackathon düzenleme
+
+🇬🇧
+- Industry software engineering internship
+- Contribute to 2-3 open-source projects
+- Publish an academic paper (TÜBİTAK project results)
+- Organize community hackathon
 
 ---
 
 ## 💡 Mühendislik Felsefem | My Engineering Philosophy
 
-> **"Kod sadece bir araç değil, bir sanat formu ve problemin çözümüne giden yolun tasarımıdır."**
+> **"Kod sadece bir araç değil, bir sanat formu ve problemin çözümüne giden yolun tasarımıdır. Algoritmanın zarflık (elegance) ve sistemin ölçeklenebilirliği, yazılımın gerçek kalitesidir."**
 > 
-> **"Code is not just a tool, but an art form and the design of the path to solving a problem."**
+> **"Code is not just a tool, but an art form and the design of the path to solving a problem. The elegance of the algorithm and the scalability of the system define true software quality."**
 
-Projelerimde | In my projects:
-- ✅ **Kodu insanlar için yazarım, bilgisayarlar için çalıştırırım** | I write code for humans, execute for computers
-- ✅ **Darboğaz analiziyle performans optimizasyonu yapı taşı** | Bottleneck analysis is the foundation of optimization
-- ✅ **Modülerlik, yeniden kullanılabilirlik ve bakımlanabilirlik** | Modularity, reusability, and maintainability come first
-- ✅ **Sanat ve mühendislik bir bütündür** | Art and engineering are inseparable
+Projelerimde / In my projects:
+
+🇹🇷
+- ✅ **Kodu insanlar için yazarım, bilgisayarlar için çalıştırırım**
+- ✅ **Darboğaz analiziyle performans optimizasyonu yapı taşı**
+- ✅ **Modülerlik, yeniden kullanılabilirlik ve bakımlanabilirlik öncelik**
+- ✅ **Sanat ve mühendislik bir bütündür — form ve function ayrılamaz**
+
+🇬🇧
+- ✅ **I write code for humans, execute for computers**
+- ✅ **Bottleneck analysis is the foundation of performance optimization**
+- ✅ **Modularity, reusability, and maintainability come first**
+- ✅ **Art and engineering are inseparable — form and function are one**
 
 ---
 
